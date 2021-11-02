@@ -1,0 +1,36 @@
+@import "../styles/variables";
+@import "../styles/mixins";
+@import "../styles/fonts";
+
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.page {
+  font-family: "Helvetica NeueCyr", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+
+  &__body {
+    background-color: $colorWhite;
+    
+    &--with-menu {
+      overflow: hidden;
+    }
+  }
+
+  &__menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    transform: translateX(100%);
+    transition: transform 0.3s;
+
+    &:target {
+      transform: translateX(0);
+    }
+  }
+}
