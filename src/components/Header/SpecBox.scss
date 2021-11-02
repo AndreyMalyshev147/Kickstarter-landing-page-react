@@ -80,8 +80,7 @@
     transition: background-color 0.3s;
 
     &:hover {
-      background-color: $colorWhite;
-      color: $colorBrown;
+      background-color: #131313;
       border-color: $colorBrown;
     }
   }

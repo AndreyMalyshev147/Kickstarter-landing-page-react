@@ -63,7 +63,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    transition: transform 0.3s;
+    transition: all 0.3s;
 
     &:hover {
       transform: scale(120%);
@@ -73,6 +73,11 @@
       width: 11px;
       height: 19px;
       background-image: url(../../images/facebook.svg);
+      // transition: background-image 0.3s;
+
+      &:hover {
+        background-image: url(../../images/facebook-hover.svg);
+      }
     }
 
     &--twitter {
@@ -80,12 +85,22 @@
       height: 17px;
       margin: 0 43px;
       background-image: url(../../images/twitter.svg);
+      // transition: background-image 0.3s;
+
+      &:hover {
+        background-image: url(../../images/twitter-hover.svg);
+      }
     }
 
     &--instagram {
       width: 18px;
       height: 18px;
       background-image: url(../../images/instagram.svg);
+      // transition: background-image 0.3s;
+
+      &:hover {
+        background-image: url(../../images/instagram-hover.svg);
+      }
     }
   }
 

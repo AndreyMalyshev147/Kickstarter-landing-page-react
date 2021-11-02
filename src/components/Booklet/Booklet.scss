@@ -208,12 +208,22 @@
     }
 
     &--prev {
-      background-image: url(../../images/toggler-right.svg);
+      background-image: url(../../images/toggler.svg);
       transform: rotate(180deg);
+      transition: background-image 0.3s;
+
+      &:hover {
+        background-image: url(../../images/toggler-hover.svg);
+      }
     }
 
     &--next {
-      background-image: url(../../images/toggler-right.svg);
+      background-image: url(../../images/toggler.svg);
+      transition: background-image 0.3s;
+
+      &:hover {
+        background-image: url(../../images/toggler-hover.svg);
+      }
     }
   }
 
