@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Kickstarter-landing-page-react/static/css/main.8180b7b9.chunk.css",
+    "main.css": "/Kickstarter-landing-page-react/static/css/main.bf6ef656.chunk.css",
     "main.js": "/Kickstarter-landing-page-react/static/js/main.3c00f90e.chunk.js",
     "main.js.map": "/Kickstarter-landing-page-react/static/js/main.3c00f90e.chunk.js.map",
     "runtime-main.js": "/Kickstarter-landing-page-react/static/js/runtime-main.6a24f6cd.js",
@@ -8,7 +8,7 @@
     "static/js/2.3de8d0b5.chunk.js": "/Kickstarter-landing-page-react/static/js/2.3de8d0b5.chunk.js",
     "static/js/2.3de8d0b5.chunk.js.map": "/Kickstarter-landing-page-react/static/js/2.3de8d0b5.chunk.js.map",
     "index.html": "/Kickstarter-landing-page-react/index.html",
-    "static/css/main.8180b7b9.chunk.css.map": "/Kickstarter-landing-page-react/static/css/main.8180b7b9.chunk.css.map",
+    "static/css/main.bf6ef656.chunk.css.map": "/Kickstarter-landing-page-react/static/css/main.bf6ef656.chunk.css.map",
     "static/js/2.3de8d0b5.chunk.js.LICENSE.txt": "/Kickstarter-landing-page-react/static/js/2.3de8d0b5.chunk.js.LICENSE.txt",
     "static/media/Logo.scss": "/Kickstarter-landing-page-react/static/media/logo.443e31c1.svg",
     "static/media/Footer.scss": "/Kickstarter-landing-page-react/static/media/twitter.69cd19d2.svg",
@@ -21,12 +21,12 @@
     "static/media/product.ec046aed.png": "/Kickstarter-landing-page-react/static/media/product.ec046aed.png",
     "static/media/quotes.0480be6a.svg": "/Kickstarter-landing-page-react/static/media/quotes.0480be6a.svg",
     "static/media/technology-column.5f8399ff.png": "/Kickstarter-landing-page-react/static/media/technology-column.5f8399ff.png",
-    "static/media/Features.scss": "/Kickstarter-landing-page-react/static/media/toggler-right.ba13b56d.svg"
+    "static/media/Features.scss": "/Kickstarter-landing-page-react/static/media/toggler.ba13b56d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6a24f6cd.js",
     "static/js/2.3de8d0b5.chunk.js",
-    "static/css/main.8180b7b9.chunk.css",
+    "static/css/main.bf6ef656.chunk.css",
     "static/js/main.3c00f90e.chunk.js"
   ]
 }
